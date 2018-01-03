@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# ignore data
+data/
+*.xml
+*.csv
